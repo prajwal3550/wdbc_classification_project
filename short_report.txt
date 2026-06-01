@@ -1,0 +1,38 @@
+WDBC Classification Project Report
+
+1. Which classifiers did you test?
+
+- Support Vector Machine (SVM)
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- Random Forest
+
+2. Which classifier gave the best accuracy?
+
+The program automatically determines the classifier with the highest accuracy.
+In most runs, Random Forest or SVM performs best.
+
+3. What does the confusion matrix show?
+
+The confusion matrix shows:
+- True Positives
+- True Negatives
+- False Positives
+- False Negatives
+
+It helps evaluate classification performance.
+
+4. Was the model good at predicting both classes?
+
+Yes. The WDBC dataset is well-structured and most classifiers achieve very high accuracy, often above 90%.
+
+5. Why is documentation important in an open-source ML project?
+
+Documentation helps users understand:
+- Project goals
+- Installation steps
+- Dataset information
+- Usage instructions
+- Model results
+
+Good documentation improves reproducibility and collaboration.
